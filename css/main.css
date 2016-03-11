@@ -1,0 +1,44 @@
+/* line 72, icon/*.png */
+.icon-sprite, .icon-paw, .icon-pie, .icon-spy, .icon-starburst {
+  background-image: url('/img/icon-s98acf2b22a.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-paw {
+  background-position: 0 0;
+}
+
+/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-pie {
+  background-position: 0 -100px;
+}
+
+/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-spy {
+  background-position: 0 -200px;
+}
+
+/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-starburst {
+  background-position: 0 -300px;
+}
+
+/* line 4, ../scss/_base.scss */
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+/* line 8, ../scss/_base.scss */
+li a {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+/* line 12, ../scss/_base.scss */
+li a span {
+  position: absolute;
+  top: -9999em;
+  left: -9999em;
+}
