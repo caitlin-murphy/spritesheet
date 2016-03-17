@@ -1,42 +1,98 @@
-/* line 72, icon/*.png */
-.icon-sprite, .icon-paw, .icon-pie, .icon-spy, .icon-starburst {
-  background-image: url('../img/icon-s98acf2b22a.png');
+.icon-sprite, .icon-adjust, .icon-ambulance, .icon-android, .icon-battery, .icon-binoculars, .icon-bomb, .icon-chrome, .icon-cloud, .icon-grad, .icon-graph, .icon-hourglass, .icon-paw, .icon-person, .icon-pie, .icon-plug, .icon-spy, .icon-starburst, .icon-tac, .icon-umbrella, .icon-wifi {
+  background-image: url('../img/icon-sa49ce988ce.png');
   background-repeat: no-repeat;
 }
 
-/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-.icon-paw {
+.icon-adjust {
   background-position: 0 0;
 }
 
-/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-.icon-pie {
+.icon-ambulance {
   background-position: 0 -100px;
 }
 
-/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-.icon-spy {
+.icon-android {
   background-position: 0 -200px;
 }
 
-/* line 84, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-.icon-starburst {
+.icon-battery {
   background-position: 0 -300px;
 }
 
-/* line 4, ../scss/_base.scss */
+.icon-binoculars {
+  background-position: 0 -400px;
+}
+
+.icon-bomb {
+  background-position: 0 -500px;
+}
+
+.icon-chrome {
+  background-position: 0 -600px;
+}
+
+.icon-cloud {
+  background-position: 0 -700px;
+}
+
+.icon-grad {
+  background-position: 0 -800px;
+}
+
+.icon-graph {
+  background-position: 0 -900px;
+}
+
+.icon-hourglass {
+  background-position: 0 -1000px;
+}
+
+.icon-paw {
+  background-position: 0 -1100px;
+}
+
+.icon-person {
+  background-position: 0 -1200px;
+}
+
+.icon-pie {
+  background-position: 0 -1300px;
+}
+
+.icon-plug {
+  background-position: 0 -1400px;
+}
+
+.icon-spy {
+  background-position: 0 -1500px;
+}
+
+.icon-starburst {
+  background-position: 0 -1600px;
+}
+
+.icon-tac {
+  background-position: 0 -1700px;
+}
+
+.icon-umbrella {
+  background-position: 0 -1800px;
+}
+
+.icon-wifi {
+  background-position: 0 -1900px;
+}
+
 li {
   list-style: none;
   display: inline-block;
   padding: 10px;
 }
-/* line 8, ../scss/_base.scss */
 li a {
   display: inline-block;
   width: 100px;
   height: 100px;
 }
-/* line 12, ../scss/_base.scss */
 li a span {
   position: absolute;
   top: -9999em;
